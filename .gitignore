@@ -1,0 +1,5 @@
+docx/
+pdfs/
+env/
+.directory
+*.pdf
