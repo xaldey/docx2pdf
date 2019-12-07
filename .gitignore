@@ -1,5 +1,4 @@
-docx/*.docx
-pdfs/*.pdf
+*.docx
+*.pdf
 env/
 .directory
-*.pdf
